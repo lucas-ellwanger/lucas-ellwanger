@@ -9,8 +9,7 @@ I like to code beautiful and fast web applications.
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my Website](http://lucas-ellwanger.vercel.app)
 * ✉️  You can contact me at [lucasellwanger.dev@gmail.com](mailto:lucasellwanger.dev@gmail.com)
-* 🚀  I'm currently working on [Taskflow](http://taskify-lucas.vercel.app)
-* 🧠  I'm learning Next.JS and tRPC
+* 🚀  I'm currently working on AI Website Generator for Next.JS Developers
 * 🤝  I'm open to collaborating on cool open-source web applications
 
 ### Skills
