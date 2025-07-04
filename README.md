@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer
 -----------------------
 
-I like to code beautiful and fast web applications.
+I like to code web applications.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my Website](http://lucas-ellwanger.vercel.app)
