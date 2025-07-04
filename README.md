@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Lucas
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Lucas!
 =======================================================================================================================================
 
-Fullstack Web Developer
+I'm a Fullstack Web Developer
 -----------------------
 
-I like to code web applications.
+I like to code web applications
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my Website](http://lucas-ellwanger.vercel.app)
