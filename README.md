@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Lucas!
 =======================================================================================================================================
 
-I'm a Fullstack Web Developer
+I'm a Software Engineer
 -----------------------
 
-I like to code web applications
+I like to code full-stack web applications
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my Website](http://lucas-ellwanger.vercel.app)
 * ✉️  You can contact me at [lucasellwanger.dev@gmail.com](mailto:lucasellwanger.dev@gmail.com)
-* 🚀  I'm currently working on AI Website Generator for Next.JS Developers
-* 🤝  I'm open to collaborating on cool open-source web applications
+* 🚀  I'm currently working on AI Website Generator
+* 🤝  I'm open to work and collaborating on open-source projects
 
 ### Skills
 
