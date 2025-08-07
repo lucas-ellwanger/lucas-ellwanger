@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Software Engineer
 -----------------------
 
-I like to code full-stack web applications
+I code full-stack web applications
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my personal website](http://lucas-ellwanger.vercel.app)
