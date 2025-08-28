@@ -9,7 +9,7 @@ I code full-stack web applications
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my personal website](http://lucas-ellwanger.vercel.app)
 * ✉️  You can contact me at [lucasellwanger.dev@gmail.com](mailto:lucasellwanger.dev@gmail.com)
-* 🚀  I'm currently working on AI Website Generator
+* 🚀  I'm currently learning NestJS to increase my knowledge in back-end development
 * 🤝  I'm open to work and collaborating on open-source projects
 
 ### Skills
